@@ -2239,8 +2239,8 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "K"
-				(at 11.43 3.81 0)
+			(property "Reference" "K1"
+				(at 11.43 1.2701 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -2251,7 +2251,7 @@
 				)
 			)
 			(property "Value" "Relay_SPDT"
-				(at 11.43 1.27 0)
+				(at 11.43 -1.2699 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -2261,7 +2261,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C"
 				(at 11.43 -1.27 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2285,6 +2285,17 @@
 				)
 			)
 			(property "Description" "Relay SPDT, monostable, EN50005"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Link" ""
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2489,60 +2500,6 @@
 			)
 			(symbol "Relay_SPDT_1_1"
 				(pin passive line
-					(at 5.08 -7.62 90)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 7.62 270)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 7.62 270)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
 					(at -5.08 7.62 270)
 					(length 2.54)
 					(name ""
@@ -2552,7 +2509,7 @@
 							)
 						)
 					)
-					(number "A1"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2570,7 +2527,61 @@
 							)
 						)
 					)
-					(number "A2"
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -7.62 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 7.62 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 7.62 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8356,7 +8367,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
 			(at 73.66 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -8543,7 +8554,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-263-5_TabPin3"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-5_Vertical"
 			(at 118.11 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8647,7 +8658,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical"
 			(at 254 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -8824,7 +8835,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 224.282 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -9140,7 +9151,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "220uF"
 			(at 153.67 35.9409 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9151,7 +9162,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 150.8252 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9437,7 +9448,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Heatsink:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm"
 			(at 147.6248 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -9623,7 +9634,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical"
 			(at 58.42 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -9844,7 +9855,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 118.11 137.668 90)
 			(hide yes)
 			(show_name no)
@@ -10106,7 +10117,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
 			(at 139.7 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -10397,7 +10408,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 246.38 85.598 90)
 			(hide yes)
 			(show_name no)
@@ -10568,7 +10579,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical"
 			(at 100.33 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10701,7 +10712,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220uF"
+		(property "Value" "100uF"
 			(at 95.25 35.9409 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10712,7 +10723,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 92.4052 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10883,7 +10894,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C"
 			(at 179.07 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -10928,19 +10939,19 @@
 				)
 			)
 		)
-		(pin "A2"
+		(pin "5"
 			(uuid "2ca71162-0479-42cb-8214-3e07986e573b")
 		)
-		(pin "A1"
+		(pin "1"
 			(uuid "50cd8e95-f1c7-4276-836a-047ae4d7ebba")
 		)
-		(pin "14"
+		(pin "3"
 			(uuid "8946bf27-872c-4009-98a2-c0f932d927ab")
 		)
-		(pin "11"
+		(pin "2"
 			(uuid "fb508319-874b-446d-8ab8-77e0fb2b9bda")
 		)
-		(pin "12"
+		(pin "4"
 			(uuid "ff37e42f-fcdc-4487-9610-55c21fe41fe5")
 		)
 		(instances
@@ -11064,7 +11075,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 104.902 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -11222,7 +11233,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "33uH"
 			(at 145.542 26.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11232,7 +11243,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01"
 			(at 143.51 29.21 0)
 			(hide yes)
 			(show_name no)
