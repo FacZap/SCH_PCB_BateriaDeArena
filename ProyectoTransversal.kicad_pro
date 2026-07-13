@@ -212,6 +212,7 @@
       "track_widths": [
         0.0,
         0.3,
+        1.0,
         1.2
       ],
       "tuning_pattern_settings": {
@@ -693,7 +694,7 @@
         "uuid": "40724fcc-6648-4179-a41d-0dd98f467c0c"
       }
     ],
-    "used_designators": "R5,#PWR12",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
