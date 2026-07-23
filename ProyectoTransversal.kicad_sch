@@ -3950,16 +3950,6 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 83.82) (xy 53.34 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0cb4280d-e031-4186-b7ce-f87f6ed2b283")
-	)
-	(wire
-		(pts
 			(xy 91.44 24.13) (xy 91.44 31.75)
 		)
 		(stroke
@@ -4077,6 +4067,16 @@
 			(type default)
 		)
 		(uuid "2b691a6e-5bde-4be1-9ffe-a22bfb7cb694")
+	)
+	(wire
+		(pts
+			(xy 85.09 91.44) (xy 95.25 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34555aab-f06d-42cb-9a61-b28cd3190c8a")
 	)
 	(wire
 		(pts
@@ -8084,7 +8084,7 @@
 		)
 	)
 	(label "CMD_Relay"
-		(at 45.72 83.82 0)
+		(at 85.09 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
