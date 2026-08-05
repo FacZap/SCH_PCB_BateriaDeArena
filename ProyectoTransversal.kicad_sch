@@ -8447,6 +8447,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "terminal_block/MaiXu"
+			(at 73.66 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d427bdfa-b8bc-4def-9ada-e1d4b567bf5d")
 		)
@@ -8636,6 +8647,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "package/TO_SOT/THT"
+			(at 116.84 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "3c8d4d22-bd3e-44b0-a4ac-52321ec6ffcb")
 		)
@@ -8728,6 +8750,17 @@
 			)
 		)
 		(property "Link" ""
+			(at 255.27 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
 			(at 255.27 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -8871,7 +8904,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 224.282 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -8893,7 +8926,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" ""
 			(at 226.06 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -8905,6 +8938,17 @@
 			)
 		)
 		(property "Link" ""
+			(at 226.06 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 226.06 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -9198,7 +9242,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_8x10.5"
 			(at 150.8252 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9220,7 +9264,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" ""
 			(at 149.86 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -9232,6 +9276,17 @@
 			)
 		)
 		(property "Link" ""
+			(at 149.86 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/SMD/elec_round_polarized"
 			(at 149.86 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -9348,6 +9403,17 @@
 		)
 		(property "Link" ""
 			(at 223.52 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "diode/THT"
+			(at 223.52 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9618,6 +9684,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "package/TO_SOT/THT"
+			(at 137.16 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "ea9bc18f-60e9-49fe-be93-274a4b158944")
 		)
@@ -9704,6 +9781,17 @@
 			)
 		)
 		(property "Link" ""
+			(at 58.42 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
 			(at 58.42 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -9891,7 +9979,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 118.11 137.668 90)
 			(hide yes)
 			(show_name no)
@@ -9913,7 +10001,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" ""
 			(at 118.11 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -9926,6 +10014,17 @@
 		)
 		(property "Link" ""
 			(at 118.11 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 118.11 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10016,6 +10115,17 @@
 			)
 		)
 		(property "Link" ""
+			(at 128.27 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "diode/THT"
 			(at 128.27 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -10188,6 +10298,17 @@
 		)
 		(property "Link" ""
 			(at 139.7 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "terminal_block/MaiXu"
+			(at 139.7 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10444,7 +10565,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 238.76 85.598 90)
 			(hide yes)
 			(show_name no)
@@ -10466,7 +10587,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" ""
 			(at 238.76 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -10479,6 +10600,17 @@
 		)
 		(property "Link" ""
 			(at 238.76 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 238.76 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10737,6 +10869,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 100.33 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "11ddedd9-611c-4c96-8b5f-31ed62cf523e")
 		)
@@ -10837,7 +10980,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x7.7"
 			(at 92.4052 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10859,7 +11002,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" ""
 			(at 91.44 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -10871,6 +11014,17 @@
 			)
 		)
 		(property "Link" ""
+			(at 91.44 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/SMD/elec_round_polarized"
 			(at 91.44 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -11189,7 +11343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 104.902 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -11211,7 +11365,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" ""
 			(at 106.68 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -11223,6 +11377,17 @@
 			)
 		)
 		(property "Link" ""
+			(at 106.68 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 106.68 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -11282,7 +11447,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 245.872 88.9 90)
 			(hide yes)
 			(show_name no)
@@ -11304,7 +11469,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" ""
 			(at 247.65 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -11316,6 +11481,17 @@
 			)
 		)
 		(property "Link" ""
+			(at 247.65 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 247.65 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -11485,6 +11661,17 @@
 		)
 		(property "Link" ""
 			(at 143.51 29.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "choke_THT"
+			(at 143.51 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
