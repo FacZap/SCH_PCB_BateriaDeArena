@@ -8436,7 +8436,7 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "terminal_block/MaiXu"
+		(property "Link" ""
 			(at 73.66 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -8447,7 +8447,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "THT"
+		(property "KiLib_Generator" "terminal_block/MaiXu"
 			(at 73.66 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -8540,7 +8540,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "THT"
+		(property "Link" ""
 			(at 210.82 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -8636,7 +8636,7 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "package/TO_SOT/THT"
+		(property "Link" ""
 			(at 116.84 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -8647,7 +8647,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "THT"
+		(property "KiLib_Generator" "package/TO_SOT/THT"
 			(at 116.84 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -8749,7 +8749,7 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "connector/pin_header_socket"
+		(property "Link" ""
 			(at 255.27 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -8760,7 +8760,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "THT"
+		(property "KiLib_Generator" "connector/pin_header_socket"
 			(at 255.27 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -8937,7 +8937,7 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+		(property "Link" ""
 			(at 226.06 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -8948,7 +8948,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "SMD"
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 226.06 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -9275,7 +9275,7 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "capacitor/SMD/elec_round_polarized"
+		(property "Link" ""
 			(at 149.86 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -9286,7 +9286,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "SMD"
+		(property "KiLib_Generator" "capacitor/SMD/elec_round_polarized"
 			(at 149.86 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -9401,8 +9401,8 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "diode/THT"
-			(at 223.52 68.58 0)
+		(property "Link" ""
+			(at 223.52 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9412,8 +9412,8 @@
 				)
 			)
 		)
-		(property "Tecnologia" "THT"
-			(at 223.52 68.58 90)
+		(property "KiLib_Generator" "diode/THT"
+			(at 223.52 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9583,7 +9583,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "THT"
+		(property "Link" ""
 			(at 147.32 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -9673,7 +9673,7 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "package/TO_SOT/THT"
+		(property "Link" ""
 			(at 137.16 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -9684,7 +9684,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "THT"
+		(property "KiLib_Generator" "package/TO_SOT/THT"
 			(at 137.16 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -9780,7 +9780,7 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "connector/pin_header_socket"
+		(property "Link" ""
 			(at 58.42 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -9791,7 +9791,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "THT"
+		(property "KiLib_Generator" "connector/pin_header_socket"
 			(at 58.42 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10012,8 +10012,8 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 118.11 135.89 0)
+		(property "Link" ""
+			(at 118.11 135.89 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10023,8 +10023,8 @@
 				)
 			)
 		)
-		(property "Tecnologia" "SMD"
-			(at 118.11 135.89 90)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 118.11 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10114,7 +10114,7 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "diode/THT"
+		(property "Link" ""
 			(at 128.27 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -10125,7 +10125,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "THT"
+		(property "KiLib_Generator" "diode/THT"
 			(at 128.27 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -10296,8 +10296,8 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "terminal_block/MaiXu"
-			(at 139.7 119.38 0)
+		(property "Link" ""
+			(at 139.7 119.38 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10307,8 +10307,8 @@
 				)
 			)
 		)
-		(property "Tecnologia" "THT"
-			(at 139.7 119.38 90)
+		(property "KiLib_Generator" "terminal_block/MaiXu"
+			(at 139.7 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10425,7 +10425,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "THT"
+		(property "Link" ""
 			(at 226.06 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -10598,8 +10598,8 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 238.76 83.82 0)
+		(property "Link" ""
+			(at 238.76 83.82 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10609,8 +10609,8 @@
 				)
 			)
 		)
-		(property "Tecnologia" "SMD"
-			(at 238.76 83.82 90)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 238.76 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10858,7 +10858,7 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "connector/pin_header_socket"
+		(property "Link" ""
 			(at 100.33 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10869,7 +10869,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "THT"
+		(property "KiLib_Generator" "connector/pin_header_socket"
 			(at 100.33 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11013,7 +11013,7 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "capacitor/SMD/elec_round_polarized"
+		(property "Link" ""
 			(at 91.44 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -11024,7 +11024,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "SMD"
+		(property "KiLib_Generator" "capacitor/SMD/elec_round_polarized"
 			(at 91.44 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -11196,7 +11196,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "THT"
+		(property "Link" ""
 			(at 190.5 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -11376,7 +11376,7 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+		(property "Link" ""
 			(at 106.68 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -11387,7 +11387,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "SMD"
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 106.68 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -11480,7 +11480,7 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+		(property "Link" ""
 			(at 247.65 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -11491,7 +11491,7 @@
 				)
 			)
 		)
-		(property "Tecnologia" "SMD"
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 247.65 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -11659,8 +11659,8 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "choke_THT"
-			(at 143.51 29.21 0)
+		(property "Link" ""
+			(at 143.51 29.21 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11670,8 +11670,8 @@
 				)
 			)
 		)
-		(property "Tecnologia" "THT"
-			(at 143.51 29.21 90)
+		(property "KiLib_Generator" "choke_THT"
+			(at 143.51 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
